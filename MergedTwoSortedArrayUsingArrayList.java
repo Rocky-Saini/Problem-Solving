@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class h {
+public class MergedTwoSortedArrayUsingArrayList {
     public static void main(String[] args) {
         // Create two ArrayLists with the same values
         ArrayList<Integer> list1 = new ArrayList<>();
